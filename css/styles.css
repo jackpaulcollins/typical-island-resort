@@ -1,0 +1,34 @@
+body {
+  background-color: #e8f8ff;
+}
+
+h1 {
+  color: #afdd7e;
+  font-family: fantasy;
+  font-style: oblique;
+  font-size: 80px;
+}
+
+#asterisk {
+  font-size: 15px;
+  display: block;
+}
+
+#intro-text {
+  font-size: 30px;
+  font-family: "Gill Sans", sans-serif;
+}
+
+#home-page-list {
+  font-size: 20px;
+  font-family: "Gill Sans", sans-serif;
+}
+
+#find-out-more {
+  font-size: 50px
+}
+
+#home-page-links {
+  font-size: 35px
+
+ }
