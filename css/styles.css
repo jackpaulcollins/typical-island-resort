@@ -7,6 +7,8 @@ h1 {
   font-family: fantasy;
   font-style: oblique;
   font-size: 80px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #asterisk {
