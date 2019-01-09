@@ -1,13 +1,25 @@
 body {
-  background-color: #e8f8ff;
+  background-color: #fffbef;
 }
 
 h1 {
-  color: #afdd7e;
-  font-family: fantasy;
-  font-style: oblique;
-  font-size: 80px;
+  color: #8942f4;
+  font-family:"Times New Roman", Times, serif;
+  font-weight: bold;
+  font-size: 70px;
 }
+
+#copyright {
+  font-size: 20px;
+}
+
+#gold {
+ font-weight: bold;
+ color:#f7bd00;
+ text-decoration: underline;
+}
+
+
 
 #asterisk {
   font-size: 15px;
@@ -29,6 +41,19 @@ h1 {
 }
 
 #home-page-links {
-  font-size: 35px
+  font-size: 20px;
+  font-family: "Arial", Helvetica, sans-serif;
+
 
  }
+
+ a:link {
+   color: black;
+   text-decoration: none;
+ }
+
+ a:hover {
+  color: #ce5078;
+  text-decoration: underline;
+
+}
